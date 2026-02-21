@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Jan
 
-<!--
-**mjanmangal95-max/mjanmangal95-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am learning Web Design and Development  
+💻 I know HTML and CSS  
+🚀 Currently improving my frontend skills  
+📂 I upload my practice projects here  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML
+- CSS
+- Basic Computer Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Become a Frontend Developer  
+- Learn JavaScript  
+- Start Freelancing  
+
+⭐ Thanks for visiting my profile!
